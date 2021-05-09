@@ -10,3 +10,6 @@ This application displays direct information about Corona cases around the world
 # react-chartjs-2 to create Line Graph 
 # react-leaflet to show a worldwid map and Corona spread centers on it
 # numeral to To formulate numbers in a better way
+# firebase to host this application 
+
+### Link to it : https://nosyrat-tracker-80a49.web.app/
