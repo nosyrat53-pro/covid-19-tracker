@@ -1,0 +1,43 @@
+.infoBox {
+    flex: 1;
+    min-width: 120px;
+    cursor: pointer;
+}
+
+[last="no"] {
+    margin-right: 15px;
+}
+
+@media (max-width: 447px) {
+    [last="yes"] {
+        margin-top: 10px;
+    }
+    [rec="yes"] {
+        margin-right: 0px;
+    }
+}
+
+.infoBox--selected {
+    border-top: 10px solid greenyellow;
+}
+
+.infoBox--red {
+    border-top-color: #cc1034;
+}
+.infoBox__cases--green {
+    color: #7dd71d !important ;
+}
+
+.infoBox__cases {
+    color: #cc1034;
+    font-weight: 600;
+    font-size: 1.75rem;
+    margin-bottom: .5rem;
+}
+
+.infoBox__total {
+    color: #6c757d;
+    font-weight: 700 !important;
+    font-size: .8rem !important;
+    margin-top: 15px !important;
+}
