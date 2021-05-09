@@ -5,7 +5,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 This application displays direct information about Corona cases around the world 
 
 ## Technologies used in it:
-#ٌ React.js 
+##
+# React.js 
 # Material-ui
 # react-chartjs-2 to create Line Graph 
 # react-leaflet to show a worldwid map and Corona spread centers on it
